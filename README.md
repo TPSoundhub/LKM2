@@ -5,8 +5,7 @@ Partnere er Herningsholm og Skanderborg gymnasier, samt Soundhub Danmark og Lyde
 
 Modul 2 indeholder basale kode eksempler på hvordan man laver sinus kurver til lyd hhv plots, så man eleverne kan eksperimentere med at se 
 og høre dem. de kan lave flere og addere dem - og dermed få nye lyde - og herigennem få en basis forståelse for additiv syntese. 
-Eksemplerne kan også bruges til at forklare om fase og forskellen på at addere 2 kurver i modfase i mono (nul) og at lade 2 kanaler (stereo) 
-afspille i modfase og så lade hjernen/ørene lave additionen. tllavarende med stødtoner (beats). 
+Eksemplerne kan også bruges til at forklare om fase og forskellen på at addere 2 kurver i modfase i mono (nul) og at lade 2 kanaler (stereo) afspille i modfase og så lade hjernen/ørene lave additionen. Tilsvarende med stødtoner (beats). 
 De kan lave en stribe lyde med harmoniske frekevnser og bygge mere komplekse lyde. Med alle hhv kun de ulige kan det kobles til fysik om
 stående bølger i strenge/rør....
 
